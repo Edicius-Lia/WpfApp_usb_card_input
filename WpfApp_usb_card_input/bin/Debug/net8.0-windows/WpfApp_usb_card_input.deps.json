@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WpfApp_usb_card_input/1.0.0": {
+        "runtime": {
+          "WpfApp_usb_card_input.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WpfApp_usb_card_input/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
